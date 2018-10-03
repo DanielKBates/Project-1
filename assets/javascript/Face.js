@@ -334,10 +334,3 @@ $("#picture-submit").on('click', function () {
     });
     $("#facebook-link").val("");
 });
-
-
-
-
-
-
-
